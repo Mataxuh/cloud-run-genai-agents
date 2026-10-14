@@ -11,7 +11,7 @@ This repository contains a full multi-agent ecosystem built on Google Cloud Run,
 
 ## 📂 Repository Structure & Project Showcase
 
-### ☕ Task 1: Coffee Barista Agent (`task1-coffee-barista/`)
+### ☕ [Task 1: Coffee Barista Agent](./task1-coffee-barista/)
 * **Focus:** Customer-facing agent with menu RAG capabilities.
 * **Tech:** Google ADK, Gemini API, Streamlit UI, Cloud Run.
 
@@ -22,7 +22,7 @@ This repository contains a full multi-agent ecosystem built on Google Cloud Run,
 
 ---
 
-### 📊 Task 2: Data & Analytics Agent (`task2-gemma-mcp/`)
+### 📊 [Task 2: Data & Analytics Agent](./task2-gemma-mcp/)
 * **Focus:** Model Context Protocol (MCP) data agent integration.
 * **Tech:** Gemma, Model Context Protocol, Cloud Run.
 
@@ -33,7 +33,7 @@ This repository contains a full multi-agent ecosystem built on Google Cloud Run,
 
 ---
 
-### 💼 Task 3: Manager Assistant Agent (`task3-manager-assistant/`)
+### 💼 [Task 3: Manager Assistant Agent](./task3-manager-assistant/)
 * **Focus:** Operational productivity assistant executing python code in sandboxed environments and managing Google Sheets.
 * **Tech:** Google ADK, Python 3.11, Google Sheets API, IAM Service Accounts, Cloud Run Sandboxes.
 
